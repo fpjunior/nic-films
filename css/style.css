@@ -1971,7 +1971,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background: #FFFFFF;
+background: #1e1818;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
@@ -2002,7 +2002,7 @@ margin: 0px;
 margin: 0px;
 }
 .navbar-inverse .navbar-nav > li > a {
-color: #222; 
+    color: #fff;
 font-size:12px;
 padding: 10px 11px;
 }
