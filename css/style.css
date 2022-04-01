@@ -33,6 +33,7 @@ a, a:hover, a:active {
     visibility: hidden;
     width: 0;
     height: 0;
+    /* color: #0A1525; */
 }
 .clearfix:before,
 .clearfix:after {
