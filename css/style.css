@@ -333,7 +333,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #FFFFFF;
+    color: #6e6c6c;
     background-color: transparent;
 }
 
@@ -1385,7 +1385,7 @@ transition: all .3s;
 }
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
-    background: #11D25D;
+    background: #6e6c6c;
     color: #FFFFFF;
     text-decoration: none;
     border: #11D25D solid 1px;
